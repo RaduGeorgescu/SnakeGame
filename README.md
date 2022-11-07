@@ -1,3 +1,5 @@
+A small Snake Game built with React, TypeScript and TailwindCSS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
